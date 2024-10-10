@@ -603,6 +603,9 @@
     <Content Include="kaiadmin-lite-1.2.0\LICENSE" />
     <Content Include="kaiadmin-lite-1.2.0\README.md" />
     <Content Include="Areas\Admin\Views\AdminLayout\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminLayout\PartialHead.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminLayout\PartialSidebar.cshtml" />
+    <Content Include="Areas\Admin\Views\AdminLayout\PartialNavbar.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
