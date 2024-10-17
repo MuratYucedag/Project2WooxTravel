@@ -8,6 +8,8 @@ using Project2WooxTravel.Entities;
 
 namespace Project2WooxTravel.Areas.Admin.Controllers
 {
+    [Authorize]
+    //[AllowAnonymous]
     public class DestinationController : Controller
     {
         TravelContext context = new TravelContext();
